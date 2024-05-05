@@ -32,16 +32,11 @@ function barril_1()
  end
 
 function barril()
-    state = not state
-    
+    state = not state  
     if state == true then
        printString("activado", 2000)
-
    else
-
        printString("desactivado", 2000)
-
     end
-    -- body
 end
 
