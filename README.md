@@ -1,5 +1,4 @@
+# PROYECTO SAMP
 
+**Revisa la carpeta mods**
 
-#🌟✨ Hola ✨🌟
-
-#PROYECTO SAMP
